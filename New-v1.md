@@ -1,1 +1,23 @@
-
+{
+"Title": " پووووووول ندیییید !!! ",
+"Description": "دیگه نیاز نیس پول به فیلتر شکن بدی !\n\nعضو کانال پروکسی Vip بشو و با یه کلیک به پروکسی سرعتی وصل شو ♥️",
+"Link": "tg://join?invite=9FBXOTp4OidiMzBk",
+"ColorWave": "#F44336",
+"ColorWaveTwo": "#FF5252",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  عضویت فوری  ",
+"ButtonCancell": " ندوس ",
+"Closure": "true",
+"Show": "on"
+}
