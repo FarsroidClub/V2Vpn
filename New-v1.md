@@ -20,5 +20,5 @@
 "Button": " عضویت و دریافت فوری ",
 "ButtonCancell": " نمیخوام :/ ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
