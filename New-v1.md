@@ -20,5 +20,5 @@
 "Button": " عضویت و تست فوری ",
 "ButtonCancell": " فیلترشکن میخرم ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
