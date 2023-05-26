@@ -1,1 +1,24 @@
-
+{
+"Title": "یه سر به کانال بزن 😎",
+"Description": "سلام عشقم حالت چطوره ؟ 😍\n\n- فیلترشکن پرسرعت برای ایرانسل و Adsl داخل کانال قرار دادیم ، پیشنهاد میکنم یه سری بزنی گلم ❤️",
+"Link": "tg://resolve?domain=Farsroid_Club",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "right",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": " عضویت فوری ",
+"ButtonCancell": " ممنون ",
+"Closure": "true",
+"Show": "on"
+}
