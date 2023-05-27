@@ -1,10 +1,10 @@
 {
-"Title": "یه سر به کانال بزن 😎",
-"Description": "سلام عشقم حالت چطوره ؟ 😍\n\n- فیلترشکن پرسرعت برای ایرانسل و Adsl داخل کانال قرار دادیم ، پیشنهاد میکنم یه سری بزنی گلم ❤️",
-"Link": "tg://resolve?domain=Farsroid_Club",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "فیلترشکن مخصوص اینستاگرام 😁",
+"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن مخصوصشو دانلود کن تا راحت شی 😎❤️",
+"Link": "tg://join?invite=G7IgoW69xdg4OTJk",
+"ColorWave": "#A600FF",
+"Color": "#a600ff",
+"ColorWaveTwo": "#9F2BDC",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "right",
@@ -14,10 +14,10 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": " عضویت فوری ",
+"Button": " دانلود فیلترشکن اینستا ",
 "ButtonCancell": " ممنون ",
 "Closure": "true",
 "Show": "on"
