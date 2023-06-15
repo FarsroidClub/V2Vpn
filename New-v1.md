@@ -1,10 +1,10 @@
 {
-"Title": "فیلترشکن مخصوص اینستاگرام 😁",
-"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
-"Link": "tg://join?invite=s5eRrhY43W5hYmFk",
-"ColorWave": "#A600FF",
-"Color": "#a600ff",
-"ColorWaveTwo": "#9F2BDC",
+"Title": "⚠️ خبر بسیار مهم ⚠️",
+"Description": "● به مناسبت تولد ادمین سازنده فیلترشکن به مدت 2 ساعت ورود به کانال VIP کسب درآمد  رایگانه پس سرییییع عضو شو 👇🏻",
+"Link": "tg://join?invite=ZEtt3hM1WZU0ODc0",
+"ColorWave": "#00E5FF",
+"Color": "#00E5FF",
+"ColorWaveTwo": "#00B8D4",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "right",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "1945",
+"Cancellable": "false",
+"MessageID": "267277",
 "ShowTime": "3",
-"Button": " دانلود فیلترشکن اینستا ",
-"ButtonCancell": " میخرم ",
+"Button": "  عضویت فوری   ",
+"ButtonCancell": "",
 "Closure": "true",
-"Show": "off"
+"Show": "on"
 }
