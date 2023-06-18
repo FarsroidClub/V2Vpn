@@ -1,13 +1,13 @@
 {
-"Title": "خواهش میکنم این متن و بخون 🥲",
-"Description": "منم تا قبل یادگیری این روش کار کردن و کسب درآمد ، داشتم از بابام پول میگرفتم ، اگه میخوای راه درامدزایی یادبگیری فورا بیا عضو کانال شو منتظرتم👇🏻",
-"Link": "tg://join?invite=Xep1jCzk8bZiNTE0",
-"ColorWave": "#673AB7",
-"Color": "#FF9100",
-"ColorWaveTwo": "#7C4DFF",
+"Title": "⭕️ خبر #مهم",
+"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به سرورهای ایلان ماسک قرار دادیم + 2 عدد پروکسی مخصوص اینستاگرام 😍❤️",
+"Link": "tg://join?invite=z1xTXCkBPT4wODk8",
+"ColorWave": "#AA00FF",
+"Color": "#AA00FF",
+"ColorWaveTwo": "#E040FB",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "3",
-"ShowTime": "846140",
-"Button": " آموزش کسب درآمد ",
+"MessageID": "27361894",
+"ShowTime": "2",
+"Button": " عضویت فوری ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
