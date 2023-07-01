@@ -1,10 +1,10 @@
 {
-"Title": "کانال VIP رایگان شد !",
-"Description": "اگه تلگرام ، اینستا ، واتس‌اپت بالا نمیاد زود بیا داخل کانال VIP پروکسیای ضد فیلتر و بردار 👇🏻",
-"Link": "tg://join?invite=EBent--wzNwwODIy",
-"ColorWave": "#69F0AE",
-"Color": "#69F0AE",
-"ColorWaveTwo": "#00BFA5",
+"Title": "چرا الکی پول فیلترشکن بدی! ",
+"Description": "از اینجا رایگان دانلود کن یک ریالم پول نده سرعتشم 3 برابر فیلترشکن پولیه 😁👇🏻",
+"Link": "tg://join?invite=mC14RANdVMdhMGE0",
+"ColorWave": "#00B8D4",
+"Color": "#00B8D4",
+"ColorWaveTwo": "#18FFFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "279360031",
-"ShowTime": "3",
-"Button": " عضویت در کانال VIP ",
+"MessageID": "01028373",
+"ShowTime": "2",
+"Button": " دانلود فیلترشکن پرسرعت ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
